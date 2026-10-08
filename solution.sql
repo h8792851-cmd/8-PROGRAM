@@ -1,7 +1,4 @@
--- ============================================
--- SOLUTION - EMPLOYEE AGGREGATE FUNCTIONS
--- ============================================
-
+CREATE DATABASE collegeDB;
 USE CollegeDB;
 
 -- Create Employee table
